@@ -121,8 +121,7 @@ public class TechJobs {
     private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
 
 //        System.out.println("printJobs is not implemented yet");
-//        if (someJobs.isEmpty()) {
-//            System.out.printf("No Results");
+
 
         if(someJobs.isEmpty()){
             System.out.print("No Results");
